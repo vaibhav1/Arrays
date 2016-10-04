@@ -8,6 +8,7 @@ package com.vaibhav1.practice;
  * Problem statement:  Given an array of integers, return the maximum product in a contiguous subarray.
  * For Example: 1. arr = {6,-3, -10, 0, 2} maximum product is : 180
  * 				2. arr = {-1, 2, -3, -4} maximum product is : 12
+ * 				3. arr = {1, -2, -3, 0, 7, -8, -2} maximum product is : 112
  */
 public class MaximumProductSubArray {
 
