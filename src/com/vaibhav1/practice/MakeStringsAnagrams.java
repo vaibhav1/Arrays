@@ -4,15 +4,14 @@
 package com.vaibhav1.practice;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 /**
  * @author vshukla
  * 
  * Problem Statement: 	Given two strings,  and , that may or may not be of the same length, 
- * 						determine the minimum number of character deletions required to make  and  anagrams. 
+ * 						determine the minimum number of character deletions required to make the strings anagrams. 
  * 						Any characters can be deleted from either of the strings.
- * 						For eg: input - cde, abc. Output - 4
+ * 						For eg: input : cde, abc. Output : 4
  * 						Explanation: We delete the following characters from our two strings to turn them into anagrams of each other:
  *									 1. Remove d and e from cde to get c.
  * 									 2. Remove a and b from abc to get c.
